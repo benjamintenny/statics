@@ -1,0 +1,2 @@
+# statics
+Static linux files
